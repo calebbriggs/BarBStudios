@@ -76,9 +76,9 @@ span{
 	color: white;
 	font-family:"Coral Oxid";
 	font-size: 32px;
-	margin-top: 5px;
 	margin-bottom: 5px;
-	padding: 5px 0px 5px 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .ui-widget{ margin:25px 0;}
