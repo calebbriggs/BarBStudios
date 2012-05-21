@@ -66,10 +66,19 @@ select{
 input{
 width: 87%;
 }
+span{
+
+}
 
 .border{
 	border:1px solid #cccccc;
 	background: black;
+	color: white;
+	font-family:"Coral Oxid";
+	font-size: 32px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px 0px 5px 0px;
 }
 
 .ui-widget{ margin:25px 0;}
@@ -87,10 +96,8 @@ width: 87%;
 
 }
 
-.ui-widget .ui-widget-content.ui-state-default p{
-	
+.ui-widget .ui-widget-content.ui-state-default p{	
 	display:inline;
-
 }
 
 .ui-widget .ui-widget-content.ui-state-default p .verse{
