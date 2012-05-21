@@ -31,8 +31,7 @@ table{
 a{
 	color: #777;
 	text-decoration: none;
-	text-align: center;
-	background: #fff;
+	text-align: center;	
 }
 
 thead th{
@@ -70,6 +69,7 @@ width: 87%;
 
 .border{
 	border:1px solid #cccccc;
+	background: black;
 }
 
 .ui-widget{ margin:25px 0;}
