@@ -1,0 +1,12 @@
+{
+  "name": "ltest",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {   
+    "express": "3.x.x",
+    "stylus": "*",
+    "nib": "*",
+	"ejs": "*",
+	"express3-partials":"*"
+  }
+}
