@@ -11,7 +11,6 @@ function compile(str, path) {
     .use(nib())
 };
 app.configure(function () {
-		
         app.set('views', __dirname+ '/views');
         app.set('view engine', 'ejs');        
 		app.use(express.bodyParser());
