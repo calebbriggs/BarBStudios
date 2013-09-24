@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14d71502-78c3-43b0-809b-506d2494b58a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.ejs" afterPath="$PROJECT_DIR$/views/layout.ejs" />
     </list>
     <ignored path="BarBStudios.iws" />
@@ -39,7 +38,7 @@
       <file leaf-file-name="layout.ejs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layout.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="43" selection-start="759" selection-end="759" vertical-scroll-proportion="0.61445785">
+            <state line="37" column="32" selection-start="821" selection-end="821" vertical-scroll-proportion="0.68893754">
               <folding />
             </state>
           </provider>
@@ -315,7 +314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="43" selection-start="759" selection-end="759" vertical-scroll-proportion="0.61445785">
+        <state line="37" column="32" selection-start="821" selection-end="821" vertical-scroll-proportion="0.68893754">
           <folding />
         </state>
       </provider>
